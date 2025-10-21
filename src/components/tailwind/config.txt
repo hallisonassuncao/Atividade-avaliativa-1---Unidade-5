@@ -1,0 +1,21 @@
+No stackblitz adicionar a seguinte linha no index.html
+<script src="https://cdn.tailwindcss.com"></script>
+
+
+Fora do stackblitz
+Instalar via terminal :
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+cria/criar dois arquivos na raiz do projeto:
+
+tailwind.config.js
+postcss.config.js
+
+Código dos arquivos está no github
+
+adicionar no index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
