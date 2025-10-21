@@ -1,1 +1,1 @@
-src/components/cadastrapessoa/EnderecoForm.js
+src/components/cadastrapessoa/EnderecoForm.jsx
